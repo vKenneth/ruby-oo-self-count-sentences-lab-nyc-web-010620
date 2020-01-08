@@ -7,7 +7,7 @@ class String
     
   end
 
-  def "Happy Halloween!" .end_with?("?")
+  def Happy Halloween! .end_with?("?")
     .end_with?("?") == ("are you going trick-or-treating?")?
 
   
