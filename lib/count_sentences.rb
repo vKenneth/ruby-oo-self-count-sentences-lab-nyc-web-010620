@@ -13,7 +13,7 @@ class String
   end
 
   def "HI!" .end_with? ("!")
-    .end_with? == ("are you going to lunch today!")
+    .end_with? == ("are you going to lunch today!")!
 
   end
 
