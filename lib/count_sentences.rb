@@ -2,7 +2,8 @@ require 'pry'
 
 class String
 
-  def 
+  def sentence?
+    
     
   end
 
