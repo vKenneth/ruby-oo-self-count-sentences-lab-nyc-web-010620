@@ -2,11 +2,13 @@ require 'pry'
 
 class String
 
-  def 
+  def "HI!,".end_with?("!")
+    .end_with? == ("my name is Sophie").to eq(true)
     
   end
 
-  def question?
+  def "Happy Halloween!" .end_with?("?")
+    .end_with?("?") == ("are you going trick-or-treating")
 
   end
 
