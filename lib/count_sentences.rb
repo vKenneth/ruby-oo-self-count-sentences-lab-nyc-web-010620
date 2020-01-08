@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def "HI!,".end_with?("!")
-    .end_with? == ("my name is Sophie.").to (true)?
+    .end_with? == ("my name is Sophie.").
     
   end
 
