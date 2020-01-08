@@ -12,10 +12,10 @@ class String
 
   
 
-  def "HI!" .end_with? ("!")
+  def .end_with? ("!")
     .end_with? == ("are you going to lunch today!")!
 
-  end
+  
 
   def count_sentences
 
