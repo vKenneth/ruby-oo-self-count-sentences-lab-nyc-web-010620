@@ -20,5 +20,5 @@ class String
 end
 
 
-"Hey!".end_with?("self")
+
 
