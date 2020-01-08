@@ -2,19 +2,25 @@ require 'pry'
 
 class String
 
-  def sentence?
+  def "HI!,".end_with?(".")
+    .end_with? == ("my name is Sophie.").
     
   end
 
-  def question?
+  def Happy Halloween .end_with?("?")
+    .end_with?("?") == ("are you going trick-or-treating?")?
 
-  end
+  
 
-  def exclamation?
+  def .end_with? ("!")
+    .end_with? == ("are you going to lunch today!")!
 
-  end
+  
 
   def count_sentences
 
-  end
-end
+  
+
+
+
+
